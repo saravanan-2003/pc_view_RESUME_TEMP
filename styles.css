@@ -1,0 +1,41 @@
+.image_1{
+    height: 50px;
+    width: 50px;
+    padding-left: 45px;
+    padding-top: 5px;
+    
+}
+.left{
+    padding-top: 50px;
+    padding-left: 20px;
+    background-color: rgb(245, 206, 206);
+    line-height: 1.5em;
+    width: 95%;
+   
+}
+
+.right{
+    
+    width: 90%;
+    padding-left: 20px;
+    
+    line-height: 1.4em;
+    background-color: rgb(250, 239, 239);
+}
+.col {
+    text-align:center;
+    float: left;
+   
+   
+}
+.row{
+    text-align: center;
+}
+
+  
+.middle{
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: rgb(250, 239, 239);
+    
+}
